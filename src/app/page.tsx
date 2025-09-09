@@ -19,10 +19,10 @@ const HeroSection = () => {
         <div className="container mx-auto px-4 py-20 relative z-10 flex flex-row items-center justify-between text-start">
           <div className="xl:w-1/2 w-full flex flex-col gap-6">
             <p className="text-3xl lg:text-4xl xl:text-5xl font-lexend font-semibold text-white leading-tight">
-              Your Phone Stopped Working? We'll Have It Back in Your Hands Faster Than You Think
+              {"Your Phone Stopped Working? We'll Have It Back in Your Hands Faster Than You Think"}
             </p>
             <p className="text-lg font-lexend font-light text-white">
-              We turn tech emergencies into quick wins. Whether it's a cracked screen, dead battery, or water damage, our certified technicians fix it right — often within hours.
+              {"We turn tech emergencies into quick wins. Whether it's a cracked screen, dead battery, or water damage, our certified technicians fix it right — often within hours."}
             </p>
             <div className="flex flex-row gap-6 mt-4">
               <button className="bg-gradient-to-r from-[#003581] to-[#1D6C63] text-white px-6 py-3 rounded-full font-lexend font-medium flex flex-row gap-3">
@@ -68,11 +68,11 @@ const TrustUsSection = () => {
     <div className="w-full py-20 flex flex-col items-center justify-center">
       <div className="container mx-auto px-4 flex flex-col items-center">
         <h2 className="text-3xl flex lg:text-4xl mx-auto font-lexend font-semibold text-[#EDF0FF] mb-8 text-center">
-          Why Trust Us With Your Device?
+          {"Why Trust Us With Your Device?"}
         </h2>
         <div className="absolute w-[639px] h-[639px] bg-[rgba(49,119,255,0.2)] blur-[225px]" />
         <p className="text-lg flex font-lexend font-light w-full text-[#EDF0FF] mb-12 text-center max-w-5xl mx-auto">
-          Your phone isn’t just a gadget, it’s your connection to work, family, and life. When it breaks, you need a repair partner you can truly rely on.
+          {"Your phone isn’t just a gadget, it’s your connection to work, family, and life. When it breaks, you need a repair partner you can truly rely on."}
         </p>
 
         <div className="grid grid-cols-1 xl:grid-cols-2 gap-8 w-full">

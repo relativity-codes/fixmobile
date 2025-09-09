@@ -30,7 +30,7 @@ const Footer: React.FunctionComponent<IFooterProps> = (props) => {
                 </div>
                 <div className="flex flex-col gap-4 max-lg:w-full">
                     <h2 className="text-2xl font-lexend text-[#D9D9D9] font-semibold">Contact Us</h2>
-                    <p className="font-lexend text-[#D9D9D9] font-light">123 Main Street, City, Country</p>
+                    <p className="font-lexend text-[#D9D9D9] font-light">Suite C1 & C2, Tech Plaza, <br/>9 Saka Tinubu Street, <br/>Victoria Island, Lagos, Nigeria</p>
                     <p className="font-lexend text-[#D9D9D9] font-light">Email: info@fixmobileltd.com</p>
                     <p className="font-lexend text-[#D9D9D9] font-light">Phone: +234 913 611 5886</p>
                     <div className="flex gap-4 pt-4">

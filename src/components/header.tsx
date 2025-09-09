@@ -13,7 +13,7 @@ const Header: React.FunctionComponent<IHeaderProps> = (props) => {
 
     const navigate = useRouter();
 
-    const phoneNumber = "2349136115886";
+    const phoneNumber = "+2349136115886";
     const whatsappUrl = `https://wa.me/${phoneNumber}`;
 
     // Function to handle WhatsApp navigation
